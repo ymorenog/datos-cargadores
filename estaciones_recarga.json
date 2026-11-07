@@ -1,0 +1,491 @@
+[
+  {
+    "id": 1,
+    "nombre": "Manzanares Supercharger",
+    "operador": "Tesla",
+    "latitud": 39.0063427,
+    "longitud": -3.3832759,
+    "potencia_kw": 150.0,
+    "conectores": [
+      "tesla_supercharger",
+      "type2_combo"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "concesionario renault",
+    "operador": "privado",
+    "latitud": 38.9889364,
+    "longitud": -3.9106664,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 3,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 38.9839559,
+    "longitud": -3.9144824,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 4,
+    "nombre": "punto recarga cohes electricos",
+    "operador": "Iberdrola",
+    "latitud": 38.9920866,
+    "longitud": -3.920089,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 5,
+    "nombre": "Endesa",
+    "operador": "Endesa",
+    "latitud": 38.9881647,
+    "longitud": -3.928182,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 6,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 38.9873496,
+    "longitud": -3.9140929,
+    "potencia_kw": 50.0,
+    "conectores": []
+  },
+  {
+    "id": 7,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 38.9744077,
+    "longitud": -3.9318301,
+    "potencia_kw": 50.0,
+    "conectores": []
+  },
+  {
+    "id": 8,
+    "nombre": "Zunder - El Cruce - Manzanares",
+    "operador": "Zunder",
+    "latitud": 39.0063653,
+    "longitud": -3.3836777,
+    "potencia_kw": 50.0,
+    "conectores": [
+      "chademo",
+      "type2_combo"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "IONITY El Hidalgo",
+    "operador": "Ionity",
+    "latitud": 38.8243968,
+    "longitud": -3.396992,
+    "potencia_kw": 350.0,
+    "conectores": [
+      "type2_combo"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Zunder - Venta del Tizón - Manzanares",
+    "operador": "Zunder",
+    "latitud": 39.0587489,
+    "longitud": -3.3723029,
+    "potencia_kw": 100.0,
+    "conectores": [
+      "type2_combo"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Ionity",
+    "operador": null,
+    "latitud": 38.8246007,
+    "longitud": -3.3967548,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 12,
+    "nombre": "Punto de recarga 12",
+    "operador": null,
+    "latitud": 38.7765995,
+    "longitud": -3.3903017,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 13,
+    "nombre": "Endesa",
+    "operador": "Endesa",
+    "latitud": 38.6871561,
+    "longitud": -3.4378631,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 14,
+    "nombre": "Endesa",
+    "operador": "Endesa",
+    "latitud": 39.3540185,
+    "longitud": -3.4872722,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 15,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 39.2505008,
+    "longitud": -3.4303853,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 16,
+    "nombre": "Punto de recarga 16",
+    "operador": null,
+    "latitud": 39.0224299,
+    "longitud": -3.7575207,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 17,
+    "nombre": "Wenea",
+    "operador": "Wenea",
+    "latitud": 39.1640617,
+    "longitud": -3.8594405,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 18,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 38.9743737,
+    "longitud": -3.9172648,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 19,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 38.9897621,
+    "longitud": -3.9085692,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 20,
+    "nombre": "Repsol",
+    "operador": "Repsol",
+    "latitud": 38.9899237,
+    "longitud": -3.9069384,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 21,
+    "nombre": "Endesa",
+    "operador": "Endesa",
+    "latitud": 39.3940133,
+    "longitud": -2.9440157,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 22,
+    "nombre": "Wenea",
+    "operador": "Wenea",
+    "latitud": 39.3663486,
+    "longitud": -3.216814,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 23,
+    "nombre": "Punto de recarga 23",
+    "operador": null,
+    "latitud": 39.3948118,
+    "longitud": -3.2267238,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 24,
+    "nombre": "Endesa",
+    "operador": "Endesa",
+    "latitud": 39.3994175,
+    "longitud": -3.2185661,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 25,
+    "nombre": "Wenea",
+    "operador": "Wenea",
+    "latitud": 38.5155302,
+    "longitud": -3.4947372,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 26,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 39.0686854,
+    "longitud": -3.6258306,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 27,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 39.0687615,
+    "longitud": -3.6259211,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 28,
+    "nombre": "Endesa",
+    "operador": "Endesa",
+    "latitud": 39.0763632,
+    "longitud": -3.5960622,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 29,
+    "nombre": "Wenea",
+    "operador": "Wenea",
+    "latitud": 39.0768633,
+    "longitud": -3.5956976,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 30,
+    "nombre": "Eranovum",
+    "operador": "Eranovum",
+    "latitud": 38.9436074,
+    "longitud": -3.2332247,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 31,
+    "nombre": "Repsol",
+    "operador": "Repsol",
+    "latitud": 38.7367376,
+    "longitud": -3.0192978,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 32,
+    "nombre": "Endesa",
+    "operador": "Endesa",
+    "latitud": 38.7406509,
+    "longitud": -3.0065724,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 33,
+    "nombre": "Valdepeñas Supercharger",
+    "operador": "Tesla",
+    "latitud": 38.7797079,
+    "longitud": -3.3887808,
+    "potencia_kw": 259.0,
+    "conectores": [
+      "type2_combo"
+    ]
+  },
+  {
+    "id": 34,
+    "nombre": "Wenea",
+    "operador": "Wenea",
+    "latitud": 38.8432255,
+    "longitud": -3.3924641,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 35,
+    "nombre": "Iberdrola",
+    "operador": "Iberdrola",
+    "latitud": 38.9743986,
+    "longitud": -3.9317725,
+    "potencia_kw": 50.0,
+    "conectores": []
+  },
+  {
+    "id": 36,
+    "nombre": "Endesa",
+    "operador": "Endesa",
+    "latitud": 38.9816517,
+    "longitud": -3.9092207,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 37,
+    "nombre": "Punto de recarga 37",
+    "operador": null,
+    "latitud": 39.1479859,
+    "longitud": -3.0233251,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 38,
+    "nombre": "Punto de recarga 38",
+    "operador": null,
+    "latitud": 39.1525161,
+    "longitud": -3.0116406,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 39,
+    "nombre": "Hotel Paloma",
+    "operador": "Hotel Paloma",
+    "latitud": 39.1591374,
+    "longitud": -3.021609,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 40,
+    "nombre": "Punto de recarga 40",
+    "operador": null,
+    "latitud": 38.9318046,
+    "longitud": -2.8346403,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 41,
+    "nombre": "Zunder",
+    "operador": null,
+    "latitud": 39.0475534,
+    "longitud": -3.5895359,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 42,
+    "nombre": "Punto de recarga 42",
+    "operador": null,
+    "latitud": 39.1635153,
+    "longitud": -3.017012,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 43,
+    "nombre": "Punto de recarga 43",
+    "operador": null,
+    "latitud": 39.1601461,
+    "longitud": -3.0217361,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 44,
+    "nombre": "Punto de recarga 44",
+    "operador": null,
+    "latitud": 39.1526181,
+    "longitud": -3.0239642,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 45,
+    "nombre": "Repsol",
+    "operador": "Repsol",
+    "latitud": 39.1686628,
+    "longitud": -3.0227119,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 46,
+    "nombre": "Repsol",
+    "operador": "Repsol",
+    "latitud": 39.1636764,
+    "longitud": -3.0164414,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 47,
+    "nombre": "Punto de recarga 47",
+    "operador": null,
+    "latitud": 39.1726611,
+    "longitud": -3.0096114,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 48,
+    "nombre": "AhorraMas",
+    "operador": null,
+    "latitud": 39.1571537,
+    "longitud": -3.0266446,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 49,
+    "nombre": "Mercadona",
+    "operador": "Mercadona",
+    "latitud": 39.1566599,
+    "longitud": -3.0235093,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 50,
+    "nombre": "Consum",
+    "operador": null,
+    "latitud": 39.1496278,
+    "longitud": -3.017645,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 51,
+    "nombre": "Punto de recarga 51",
+    "operador": null,
+    "latitud": 39.1653935,
+    "longitud": -3.0072173,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 52,
+    "nombre": "Punto de recarga 52",
+    "operador": null,
+    "latitud": 39.1580635,
+    "longitud": -3.0059481,
+    "potencia_kw": null,
+    "conectores": []
+  },
+  {
+    "id": 53,
+    "nombre": "Acciona",
+    "operador": "Acciona",
+    "latitud": 38.6423596,
+    "longitud": -3.461886,
+    "potencia_kw": null,
+    "conectores": []
+  }
+]
